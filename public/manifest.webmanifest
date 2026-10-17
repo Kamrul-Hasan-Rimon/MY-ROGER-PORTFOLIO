@@ -1,0 +1,10 @@
+{
+  "name": "Kamrul Hasan — Engineering Intelligent Software",
+  "short_name": "Kamrul Hasan",
+  "description": "Full-stack development, AI automation, and agentic AI systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070910",
+  "theme_color": "#070910",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
